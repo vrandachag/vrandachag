@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **C++, C and Python**
 
-- 📫 How to reach me **chagvranda@gmail.com**
+- 📫 Reach me @ **chagvranda@gmail.com**
 
 - ⚡ Fun fact **I think I am a workaholic and wish to dive in the Research field soon!**
 
