@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vranda Chag</h1>
-<h3 align="center">Machine Learning Enthusiast || C++ Programmer || Open Source Contributer || Pythoneer 🐍 ||  CSE Sophomore 💻 || Content Writer</h3>
+<h3 align="center">Machine Learning Enthusiast || C++ Programmer || Open Source Contributer || Pythoneer 🐍 ||  CSE Pre-Final Year Student 💻 || Content Writer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrandachag&label=Profile%20views&color=0e75b6&style=flat" alt="vrandachag" /> </p>
 
