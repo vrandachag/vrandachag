@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vranda Chag</h1>
-<h3 align="center"> Machine Learning Summer School'24 attendee @ OIST 🇯🇵 | Former Research Intern at SAC - ISRO 🚀 | Mitacs Globalink Research Intern '22 🇨🇦 | Machine Learning Enthusiast | C++ Programmer | ⭕pen Source Contributer | Pythoneer 🐍| CSE Graduate 💻 | Content Writer</h3>
+<h3 align="center"> Project Scientist @ NRSC-ISRO 🚀 | Deep Learning for Satellite Imagery | MLSS’24 attendee @ OIST 🇯🇵 | Former Research Intern @ SAC - ISRO 🚀 | Mitacs GRI ’22 🇨🇦 | C++ Programmer | Pythoneer 🐍| CSE Graduate 💻</h3>
+<!-- <h3 align="center"> Machine Learning Summer School'24 attendee @ OIST 🇯🇵 | Former Research Intern at SAC - ISRO 🚀 | Mitacs Globalink Research Intern '22 🇨🇦 | Machine Learning Enthusiast | C++ Programmer | ⭕pen Source Contributer | Pythoneer 🐍| CSE Graduate 💻 | Content Writer</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrandachag&label=Profile%20views&color=0e75b6&style=flat" alt="vrandachag" /> </p>
 
